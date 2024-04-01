@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Organization
 - 📫 How to reach me: email: paumat17@gmail.com
-- 😄 Pronouns: He/him
 - ⚡ Fun fact: :D
 
 <!---
