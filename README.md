@@ -9,6 +9,13 @@
    [+] Backend 💻 🐍              
    [+] Cloud Computing ☁️
 
-    
+    currently learning: 
+    ☸️ Kubernetes.
+    🐚 Shell. 
+    🇩🇪 German.
+
+```
+```
+ >  venroy@wiiu:~$ cat shill.txt
 
 ```
