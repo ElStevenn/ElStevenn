@@ -13,9 +13,13 @@
     ☸️ Kubernetes.
     🐚 Shell. 
     🇩🇪 German.
+```
+```
+ >  root@pauserver:~$ shill.txt
 
-```
-```
- >  venroy@wiiu:~$ cat shill.txt
+    📧 Want to reach out to me?
+ All of my contacts are on my webite -> paumateu.com
+
+ general inquries can be send over paumat17@gmail.com
 
 ```
