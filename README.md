@@ -1,11 +1,14 @@
-- 👋 Hi, I’m Pau Mateu
-- 👀 I’m interested in DevOps, Coding, Backend, Cloud Coputing and now i'm starting to learning Machine Learning
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Organization
-- 📫 How to reach me: email: paumat17@gmail.com
-- ⚡ Fun fact: :D
 
-<!---
-ElStevenn/ElStevenn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## [Pau Mateu](https://paumateu.com)
+![image](https://travel360-images-handle.s3.eu-north-1.amazonaws.com/images/Screenshot+from+2024-06-11+09-42-05.png)
+
+```
+ >  root@pauserver:~$ cat about_me.txt
+
+   [+] DevOps ∞                   
+   [+] Backend 💻 🐍              
+   [+] Cloud Computing ☁️
+
+    
+
+```
