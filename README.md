@@ -10,9 +10,9 @@
    [+] Cloud Computing ☁️
 
     currently learning: 
-    ☸️ Kubernetes.
-    🐚 Shell. 
-    🇩🇪 German.
+    🚀 Terraform.
+    🛡️ Frontend and Backend Security
+    🇩🇪 German
 ```
 ```
  >  root@pauserver:~$ shill.txt
