@@ -10,9 +10,8 @@
    [+] Cloud Computing ☁️
 
     currently learning: 
-    🚀 Terraform.
-    🛡️ Frontend and Backend Security
-    🇩🇪 German
+    🗣️ Communication skills.
+    🛡️ Data Security 
 ```
 ```
  >  root@pauserver:~$ shill.txt
