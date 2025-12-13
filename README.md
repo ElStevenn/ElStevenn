@@ -6,22 +6,48 @@
 
 
 ```
- >  root@pauserver:~$ cat about_me.txt
+> root@pauserver:~$ cat about_me.txt
 
-   [+] DevOps ∞                   
-   [+] Backend 💻 🐍              
-   [+] Cloud Computing ☁️
+[+] DevOps Engineer ∞
+[+] Backend Engineer (Python / APIs)
+[+] Cloud & Infrastructure ☁️
+[+] Linux enjoyer 🐧
+[+] Automation addict ⚙️
+[+] Entrepreneur mindset 🧠
+[+] Builder of random things
+[+] Breaker of production (sometimes)
 
-    currently learning: 
-    🗣️ Communication skills.
-    🛡️ Data Security 
+currently learning:
+- 🗣️ Communication & expression
+- 🛡️ Security, privacy & paranoia
+- 🇩🇪 German (immer weiter)
+- 🧩 Systems thinking
+- 🧠 How humans work (still WIP)
+
+philosophy:
+> freedom > comfort  
+> curiosity > fear  
+> build first, polish later
+
+status:
+- fueled by coffee ☕
+- powered by chaos
+- running on GNU/Linux
 ```
 ```
- >  root@pauserver:~$ shill.txt
+> root@pauserver:~$ cat contact.txt
 
-    📧 Want to reach out to me?
- All of my contacts are on my webite -> paumateu.com
+📡 Want to reach me?
 
- general inquries can be send over paumat17@gmail.com
+- website: https://paumateu.com
+- email: paumat17@gmail.com
+
+notes:
+- serious stuff → email
+- cool stuff → also email
+- weird ideas → definitely email
+
+PGP? maybe.
+Replies? eventually.
 
 ```
