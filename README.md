@@ -1,6 +1,7 @@
 
 ## [Pau Mateu](https://paumateu.com)
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c1af5cbd-81ea-4351-9aa1-2de0cbb7fe81" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e40ad349-6d1c-41fc-814b-23a600b7120e" />
+
 
 
 
